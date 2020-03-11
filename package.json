@@ -1,0 +1,22 @@
+{
+  "name": "express-postgres-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sari1975/express-postgres-api.git",
+  "author": "Sari Katariina <sarir1975@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ley": "^0.4.1",
+    "postgres": "^1.0.2"
+  },
+  "devDependencies": {
+    "cypress": "^4.1.0",
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "e2e": "cypress open"
+  }
+}

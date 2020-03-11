@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generates the single product information 1`] = `"3: chair<br />nice chair<br /><a href=\\"/products\\" data-cy=\\"products-link\\">Back to Products</a>"`;
